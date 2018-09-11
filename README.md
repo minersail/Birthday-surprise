@@ -1,4 +1,10 @@
-# Birthday
+# Birthday Surprise
+
+Navigate around by clicking. Click on open doors to enter rooms, and click on characters to advance dialogue.
+
+Developed in a week for Melissa's birthday.
+
+# Instructions:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
