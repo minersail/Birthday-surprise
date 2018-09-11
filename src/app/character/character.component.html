@@ -1,0 +1,4 @@
+<div class="character-container" [style.left.px]="left" [style.top.px]="top" (click)="nextMessage($event)">
+	<div class="speech">{{ messages[messageIndex] }}</div>
+	<img class="character" [src]="sprite" [style.width.px]="width" [style.height.px]="height" />
+</div>

@@ -1,0 +1,6 @@
+<div *ngIf="imgPath" class="fade" (click)="onHallwayClick($event)">
+	<div class="room" [style.top.px]="imgY" [style.left.px]="imgX">
+		<img [src]="imgPath" />
+		<app-character *ngFor="let character of characters" [characterID]="character"></app-character>
+	</div>
+</div>

@@ -1,0 +1,8 @@
+.door {
+	position: absolute;
+	width: 16.666666vh;
+	height: 16.666666vh;
+	background-color: black;
+	top: 0;
+	left: 0;
+}

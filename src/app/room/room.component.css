@@ -1,0 +1,22 @@
+.fade {
+	width: 1266.67vh;
+	height: 102%;
+	top: 0px;
+	left: 0px;
+	background-color: #00000055;
+	position: absolute;
+}
+
+.room
+{
+	position: relative;
+	height: 83.33333vh;
+	width: 66.666666vh;
+}
+
+.room img {
+	height: 100%;
+	width: 100%;
+	image-rendering: pixelated;
+	position: relative;
+}
